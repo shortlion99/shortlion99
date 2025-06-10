@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi! I'm Isabel
+[![GitHub Streak](https://streak-stats.demolab.com?user=shortlion99&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **shortlion99/shortlion99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
