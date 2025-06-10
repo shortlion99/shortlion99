@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Isabel 👋</h1>
+<h1 align="center">Hi! I'm Isabel 👋</h1>
 
 <p align="center">
-  <em>Data & Backend Engineer | NUS Final Year Business Analytics | NOC Stockholm </em>
+  <em>Data & Backend Engineer | NUS Final Year Business Analytics | NOC Stockholm Aug'24 </em>
 </p>
 
 <p align="center">
