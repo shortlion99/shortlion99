@@ -1,15 +1,16 @@
 <h1 align="center">Hi! I'm Isabel 👋</h1>
 
 <p align="center">
-  <em>Data Engineer | NUS Final Year Business Analytics | NOC Stockholm Aug'24 </em>
+  <em> Big Data Engineer | NUS Final Year Business Analytics | NOC Stockholm Aug'24 </em>
 </p>
 
 ### 🛠️ Tech Stack
 
-**Languages**: Python · Java · JavaScript · TypeScript · Dart · R · SQL 
+**Languages**: SQL · Python · Java · JavaScript · TypeScript · R · Dart
 
-**Frameworks**: Fastify · Node.js · Apache Beam · Express · React · Vue 3 · Astro · Flutter · Serverless
+**Big Data**: Apache Beam · Apache Spark · Apache Flink · Iceberg · Hive · BigQuery · BigTable · StarRocks · Power BI
 
-**Infrastructure & Cloud**: GCP (BigQuery, Bigtable, Cloud Run, Dataflow, Pub/Sub, Cloud Tasks, Cloud Scheduler) · Docker · Terraform · AWS
+**Software Dev**: Node.js (Fastify, Express) · FastAPI · React · Next.js · Vue 3 · Astro · Flutter · Streamlit · Vitest
 
-**Data & Analytics**: MySQL · Power BI (DAX, Power Query)
+**Cloud & Infra**:  
+GCP (Pub/Sub, Cloud Run, Dataflow, Cloud Tasks, Cloud Scheduler) · AWS (S3, Lambda, DynamoDB, API Gateway) · Terraform · Docker · Serverless · GitLab CI/CD
